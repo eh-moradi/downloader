@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `Microsoft.RdlcDesigner.vsix` |
-| **Size** | 31.38 MB |
+| **Size** | 31.23 MB |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
