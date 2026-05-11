@@ -1,10 +1,8 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [EF_Core_Power_Tools_v2.6.1465](./EF_Core_Power_Tools_v2.6.1465)
+- [sqlite-uwp-3380000](./sqlite-uwp-3380000)
+- [sqlite-winrt-3380000](./sqlite-winrt-3380000)
 
 ---
 
