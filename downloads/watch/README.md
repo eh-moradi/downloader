@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `watch` |
-| **Size** | .91 MB |
+| **Size** | 1.19 MB |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
